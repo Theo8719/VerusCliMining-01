@@ -16,10 +16,10 @@
 		"timeout": 150
 	}
 	],
-	"user": "RJT56tzvxmzMwpCrMBfaCG2g9z4svxDx1J.Redmi A7 03",
+	"user": "RJT56tzvxmzMwpCrMBfaCG2g9z4svxDx1J.LG 4 Core 04",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 8,
+	"threads": 4,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
